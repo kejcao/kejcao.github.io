@@ -4,7 +4,7 @@ title: "Titanic HTB Writeup"
 date: Feb 28, 2025
 ---
 
-Link to the machine: `https://app.hackthebox.com/machines/Titanic`
+Link to the machine: [HTB Titanic](https://app.hackthebox.com/machines/Titanic)
 
 Per usual, we scan for open ports.
 
